@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-17T16:10:52.808Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="lQAfUk-U3XQn_hCbBHfK" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-17T16:14:33.766Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ax6cgt-fLqyVXKPgEAAM" version="21.6.2" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1778" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -283,6 +283,12 @@
         </mxCell>
         <mxCell id="mQUApbG9orDCtIvzDYjw-179" value="Задача, выводить 3 цены игры, для 3 регионов на одной странице, при этом показывать для каждого региона цену в рублях," style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mQUApbG9orDCtIvzDYjw-175">
           <mxGeometry y="30" width="310" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="mQUApbG9orDCtIvzDYjw-181" value="Проект, сделать сайт, где будет отображаться цена на игру в 3 разных регионах. При этом также будет отображаться цена в рублях для каждого из регионов.&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-493" y="210" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="mQUApbG9orDCtIvzDYjw-182" value="Минимальный функционал" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="210" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
